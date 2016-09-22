@@ -1,0 +1,2 @@
+# EntityFrameworkPractice
+EntityFrameworkの勉強用
